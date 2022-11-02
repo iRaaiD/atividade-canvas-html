@@ -1,0 +1,22 @@
+AVALIAÇÃO DE COMPUTAÇÃO GRÁFICA E PROCESSAMENTO DE IMAGENS
+
+Questões
+
+1 – Com suas palavras descreva o que é a DOM e qual sua relação com o HTML?
+
+Dom São os dados dos objetos que compõem a estrutura e o conteúdo de um documento na Web.Uma interface de programação para documentos HTML e XML 
+é chamada de DOM. O Dom representa a página de uma maneira que permite que os programas alterem a estrutura, o estilo e o conteúdo do documento .
+Em outra palavras, obtemos acesso ao documento HTML através do DOM
+
+2 – O que é o canvas HTML?
+
+é um elemento HTML que pode ser usado para desenhar gráficos na página web através de linguagem de script.
+
+3 – Quais as linguagens e tecnologias comumente envolvidas no desenvolvimento de produtos baseados em
+canvas html?
+
+Html, CSS e JavaScript
+
+4 – Explique para que serve o código “document.getElementById()”
+
+é uma função do JavaScript que serve para retornar um elemento do DOM que é identificado por um ID específico e Retorna o elemento através do seu ID.
